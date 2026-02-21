@@ -1,4 +1,4 @@
 # my_own_favorites
 
 Food:
-Schnitzel, Pizza, Schweinsbrodn, Nudeln
+Pizza, Schnitzel, Schweinsbrodn, Nudeln
